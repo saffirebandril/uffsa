@@ -7,15 +7,10 @@ import {
   WEBMASTER_2026_2027,
   TEAM_LEADS_2026_2027,
   INTERNS_2026_2027,
-  export const INTERNS_2026_2027 = [
-  { name: 'Saffire Bandril', role: 'Web Intern', photo: Saffire, instagram: 'https://www.instagram.com/saffirebandril/' },
-];
   WEBMASTER_2025_2026,
   TEAM_LEADS_2025_2026,
   INTERNS_2025_2026,
 } from './webInternsData';
-
-import Saffire from './photos/2026-Saffire.jpg';
 
 const GRID = {
   defaultPhoto: DEFAULT_PHOTO,
